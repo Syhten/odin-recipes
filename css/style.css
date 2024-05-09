@@ -1,11 +1,9 @@
-h1{
+.title{
     text-align: center;
-    font-size: 16px;
-    margin: 8px;
-    color: brown;
+    color: white;
+    background-color: black;
 }
 
 .recipe-container{
     display: block;
-    margin: 8px;
 }
